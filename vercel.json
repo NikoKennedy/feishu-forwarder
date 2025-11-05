@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "src/pages/api/feishu.ts": {
+      "runtime": "nodejs18.x",
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
